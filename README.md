@@ -4,7 +4,7 @@
 
 **Autonomous Driving** has long been considered a field in which Reinforcement algorithms excel.This project aims to leverage the power of RL to create an intelligent agent that can solve the Farama’s foundation “highway-env” project, namely the **Highway environment** (refer to https://highway-env.farama.org/environments/highway/ )
 
-![Demo] (https://github.com/Gl-ferreira/Autonomous-Driving-Reinforcement-Learning-Project/blob/main/highway%20environment%20gif.gif)
+![Demo](https://github.com/Gl-ferreira/Autonomous-Driving-Reinforcement-Learning-Project/blob/main/highway%20environment%20gif.gif?raw=true)
 
 To fulfill this project, was necessary to complete the following requirements:
 
