@@ -4,6 +4,8 @@
 
 **Autonomous Driving** has long been considered a field in which Reinforcement algorithms excel.This project aims to leverage the power of RL to create an intelligent agent that can solve the Farama’s foundation “highway-env” project, namely the **Highway environment** (refer to https://highway-env.farama.org/environments/highway/ )
 
+A preview of the environment:
+
 ![Demo](https://github.com/Gl-ferreira/Autonomous-Driving-Reinforcement-Learning-Project/blob/main/highway%20environment%20gif.gif?raw=true)
 
 To fulfill this project, was necessary to complete the following requirements:
@@ -17,4 +19,15 @@ To fulfill this project, was necessary to complete the following requirements:
 - Respect the **environment's configuration** in the template notebook.
   
 - The aforementioned criteria must be respected, and amount to **4 different solutions.**
+
+## Solutions
+
+The final for solutions, wih respect to the project requirements were:
+
+| Solution   | Model              | Observation Space | Action Space           |
+|------------|-------------------|-------------------|------------------------|
+| Solution 1 | SARSA              | Kinematics        | DiscreteMetaAction     |
+| Solution 2 | PPO                | Kinematics        | DiscreteMetaAction     |
+| Solution 3 | Deep Q-Network     | Kinematics        | Discrete Action        |
+| Solution 4 | TD3                | Occupancy grid    | Continuous Action      |
 
