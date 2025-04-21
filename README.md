@@ -22,12 +22,12 @@ To fulfill this project, was necessary to complete the following requirements:
 
 ## Solutions
 
-The final for solutions, wih respect to the project requirements were:
+The final four solutions, with respect to the project requirements were:
 
 | Solution   | Model              | Observation Space | Action Space           |
 |------------|-------------------|-------------------|------------------------|
 | Solution 1 | SARSA              | Kinematics        | DiscreteMetaAction     |
-| Solution 2 | PPO                | Kinematics        | DiscreteMetaAction     |
+| Solution 2 | PPO   (Proximal Policy Optimization)             | Kinematics        | DiscreteMetaAction     |
 | Solution 3 | Deep Q-Network     | Kinematics        | Discrete Action        |
 | Solution 4 | TD3                | Occupancy grid    | Continuous Action      |
 
