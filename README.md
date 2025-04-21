@@ -15,3 +15,4 @@ To fulfill this project, was necessary to complete the following requirements:
 - Respect the **environment's configuration** in the template notebook.
   
 - The aforementioned criteria must be respected, and amount to **4 different solutions.**
+
