@@ -7,7 +7,11 @@
 To fulfill this project, was necessary to complete the following requirements:
 
 - Use only 2 of the existing **environment's observation format** (Kinematics, Grayscale Image, Occupancy Grid and Time to collision).
+  
 - Use only 2 of the possible **agents' actions** (continuous actions, discrete actions and discrete meta actions).
+  
 - Any algorithm is valid to use, with a minimum of **3 different algorithms.**
+  
 - Respect the **environment's configuration** in the template notebook.
+  
 - The aforementioned criteria must be respected, and amount to **4 different solutions.**
